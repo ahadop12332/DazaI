@@ -140,7 +140,7 @@ buttons = [
     [
         InlineKeyboardButton(text="📓 Guidelines", callback_data="help_back"),
         InlineKeyboardButton(
-            text="Network 🕊️", url="https://t.me/Anime_Spectrum_Network"
+            text="Network 🕊️", url="https://t.me/Shinobi_Network"
         ),
     ],
     [
@@ -148,7 +148,7 @@ buttons = [
             text="🚑 Support", url=f"https://telegram.dog/{SUPPORT_CHAT}"
         ),
         InlineKeyboardButton(
-            text="📢 Updates", url="https://t.me/dazai_update"
+            text="📢 Updates", url="https://t.me/team_shinobi"
         ),
     ],
 ]
