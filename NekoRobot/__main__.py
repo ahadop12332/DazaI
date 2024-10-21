@@ -313,7 +313,7 @@ def start(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="📢 Updates",
-                            url="https://t.me/dazai_update",
+                            url="https://t.me/Team_Shinobi",
                         ),
                     ]
                 ]
@@ -677,7 +677,7 @@ def donate(update: Update, context: CallbackContext) -> None:
                         [
                             InlineKeyboardButton(
                                 text="📢 Updates",
-                                url="https://t.me/dazai_update",
+                                url="https://t.me/team_shinobi",
                             ),
                             InlineKeyboardButton(
                                 text="🚑 Support",
