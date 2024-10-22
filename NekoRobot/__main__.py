@@ -123,10 +123,6 @@ PM_START_TEXT = """
 ────「 [{}](https://te.legra.ph/file/8e72930c729c67765c783.jpg) 」────
 *Hola! {},*
 *OI oi.., Don't Touch Me Without My Permission!*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-❍ *Uptime:* `{}`
-❍ `{}` *Users, Across* `{}` *Chats.*
-➖➖➖➖➖➖➖➖➖➖➖➖➖
 ➛ Try The Guidelines Button Below To Know My Abilities ××
 """
 
